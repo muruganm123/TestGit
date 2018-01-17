@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hello")
         print("World")
+        
+        print("new tag is added before this line")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
